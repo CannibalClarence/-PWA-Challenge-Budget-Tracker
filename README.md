@@ -1,9 +1,9 @@
 # -PWA-Challenge-Budget-Tracker
 
 ## Purpose
-`Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information.
+Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information.
 
-Your challenge this week is to update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. Once you’ve made these changes, you’ll deploy the application to Heroku.`
+Your challenge this week is to update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. Once you’ve made these changes, you’ll deploy the application to Heroku.
 
 ## ScreenShot
 ![image](https://user-images.githubusercontent.com/100390351/182054624-1e3b3348-9d46-4460-9354-c2745181eae8.png)
@@ -13,7 +13,7 @@ Your challenge this week is to update an existing budget tracker application to 
 https://pwaistheway.herokuapp.com/
 </li>
 
-##Application Functionalities
+## Application Functionalities
 <li>
 The ability to enter deposits offline.
 </li>
