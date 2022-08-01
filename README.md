@@ -8,6 +8,9 @@ Your challenge this week is to update an existing budget tracker application to 
 ## ScreenShot
 ![image](https://user-images.githubusercontent.com/100390351/182054624-1e3b3348-9d46-4460-9354-c2745181eae8.png)
 
+![image](https://user-images.githubusercontent.com/100390351/182054914-286a250c-3a48-475e-8793-c6f728902e3c.png)
+
+
 ## Heroku Link
 <li>
 https://pwaistheway.herokuapp.com/
@@ -23,3 +26,7 @@ The ability to enter expenses offline.
 <li>
 Offline entries should be added to the tracker when the application is brought back online
 </li>
+
+## Contribution
+Made with love by Theo Phillips
+GitHub: https://github.com/CannibalClarence
